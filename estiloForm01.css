@@ -1,0 +1,24 @@
+.principal{
+    margin: 0 auto;
+    width: 700px;
+    height: 650px;
+    border: 2px solid gray;
+    font-family: Comic Sans MS;
+    background: rgb(212, 212, 228);
+    
+}
+
+.home{
+    padding: 10px;
+    text-align: right;
+}
+
+h1{
+    text-align: center;
+}
+
+#edicao{    
+    padding: 10px;
+    
+}
+
